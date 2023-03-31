@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of California, Los Angeles, 2018
+* M.S. in Medical Physics, San Diego State University, Exp. 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* August 2021 - Present: Head Teaching Assistant
+  * Physics 182B - Introductory physics lab for life-science majors
+  * Created pre-lab assignments using Colorado PhET simulations
+  * Hosted weekly TA training meetings
 
 Skills
 ======
