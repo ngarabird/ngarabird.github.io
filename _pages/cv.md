@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-M.S. in Medical Physics, San Diego State University, Exp. 2023
+M.S. in Medical Physics, San Diego State University, Exp. 2023<br>
 B.S. in Physics, University of California, Los Angeles, 2018
 
 Research
