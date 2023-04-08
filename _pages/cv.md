@@ -17,8 +17,8 @@ B.S. in Physics, University of California, Los Angeles, 2018
 Research
 =====
 **San Diego State University**
-* Master's Project: Diffusion Tensor Imaging Processing Pipeline for Muscle Fiber Tractography
-  * Skills: MATLAB, MRI, digital image processing
+Master's Project: Diffusion Tensor Imaging Processing Pipeline for Muscle Fiber Tractography
+* Skills: MATLAB, MRI, digital image processing
   
 Work Experience
 ======
@@ -34,16 +34,24 @@ Work Experience
   * Authored lower-division physics lab manuals backed by physics education research.
   * Corresponded with teaching assistants to document and resolve hardware and software issues.
 
+**San Bernardino Valley College** | Tutor
+*August 2014 - May 2016*
+
 Skills
 ======
 * Accordion
 * Making this website
 
-Service and leadership
+Service and Leadership
 ======
-**Women in Physics at San Diego State University**, President  
+**Women in Physics at San Diego State University** | President  
 *May 2022 - Present*
 * Provide leadership and direction to organization by planning professional development, social,
 and outreach events.
 * Designed and performed physics demonstrations for outreach events at local schools.
 * Performed physics deonstrations at the San Diego Festival of Science and Engineering.
+
+**Naval Medical Center San Diego** | Radiation Safety Volunteer
+*June 2022 - December 2022*
+* Worked with chief diagnostic medical physicist and radiation safety officers to perform annual surveys of radiographic equipment.
+* Performed acceptance testing on a newly installed digital radiography unit.
