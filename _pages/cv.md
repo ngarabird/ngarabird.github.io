@@ -18,7 +18,7 @@ Research
 =====
 **San Diego State University**
 * Master's Project: Diffusion Tensor Imaging Processing Pipeline for Muscle Fiber Tractography
-  * Skills: MATLAB, MRI
+  * Skills: MATLAB, MRI, digital image processing
   
 Work Experience
 ======
@@ -30,9 +30,9 @@ Work Experience
 
 **University of California, Riverside** | Lab/Lecture Demonstration Technician  
 *August 2018 - August 2021*  
-  * A bit of this
-  * A bit of that
-  * Here, there, everywhere
+  * Developed virtual physics lab simulations (e.g. Double-slit experiment) in Javascript for undergraduate teaching labs with total enrollment of 1,600 students per quarter.
+  * Authored lower-division physics lab manuals backed by physics education research.
+  * Corresponded with teaching assistants to document and resolve hardware and software issues.
 
 Skills
 ======
@@ -41,4 +41,9 @@ Skills
 
 Service and leadership
 ======
-* Discord admin
+**Women in Physics at San Diego State University**, President  
+*May 2022 - Present*
+* Provide leadership and direction to organization by planning professional development, social,
+and outreach events.
+* Designed and performed physics demonstrations for outreach events at local schools.
+* Performed physics deonstrations at the San Diego Festival of Science and Engineering.

@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by a very tired graduate student.
+This website is currently a massive work in progress.
 
-What am I doing?
+What am I putting on this website?
 ======
-This website is a collection of my current pursuits
 
-
-1. MRI Physics
-2. Medical physics brain dump
+1. I *might* talk about MRI Physics... at some point...
+2. I would love to write blogs about every aspect of medical physics I struggled with. I scoured the internet for information on a lot of weird medical physics things and I want to share everything I've learned.
 3. My artwork
 4. Graduate school ramblings
 

@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Artwork"
-    url: /art/
 
   - title: "Talks"
     url: /talks/    
