@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This website is currently a massive work in progress.
+About Me
+======
+Hi, I'm Ngara. Welcome to my website! 
+I am currently working toward becoming a diagnostic medical physicist, so a lot of what I talk about on here will have to do with that. In my spare time, I like to draw, paint, cook, garden, learn Spanish, and most recently, weave. 
 
 What am I putting on this website?
-======
+------
 
-1. I *might* talk about MRI Physics... at some point...
-2. I would love to write blogs about every aspect of medical physics I struggled with. I scoured the internet for information on a lot of weird medical physics things and I want to share everything I've learned.
-3. My artwork
-4. Graduate school ramblings
+This website is currently a massive work in progress. It is a static website hosted on GitHub, meaning it gets updated whenever I decide to type stuff into Visual Studio then push it to the great expanse of the internet.
 
 See the links at the top of the page to get around!

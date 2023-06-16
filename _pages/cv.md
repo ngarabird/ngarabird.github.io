@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-M.S. in Medical Physics, San Diego State University, 2023 (Expected)  
+M.S. in Medical Physics, San Diego State University, 2023
 B.S. in Physics, University of California, Los Angeles, 2018
 
 Research
@@ -23,7 +23,7 @@ Master's Project: Diffusion Tensor Imaging Processing Pipeline for Muscle Fiber 
 Work Experience
 ======
 **San Diego State University** | Head Teaching Assistant  
-*August 2021 - Present*  
+*August 2021 - May 2023*  
 * Physics 182B - Introductory physics lab for life-science majors
 * Created pre-lab assignments using Colorado PhET simulations
 * Hosted weekly TA training meetings
