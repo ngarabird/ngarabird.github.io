@@ -34,6 +34,9 @@ Work Experience
   * Authored lower-division physics lab manuals backed by physics education research.
   * Corresponded with teaching assistants to document and resolve hardware and software issues.
 
+**University of California, Los Angeles** | Stockroom Assistant
+*May 2017 - June 2018*
+
 **San Bernardino Valley College** | Tutor
 *August 2014 - May 2016*
 
@@ -45,11 +48,11 @@ Skills
 Service and Leadership
 ======
 **Women in Physics at San Diego State University** | President  
-*May 2022 - Present*
+*May 2022 - May 2023*
 * Provide leadership and direction to organization by planning professional development, social,
 and outreach events.
 * Designed and performed physics demonstrations for outreach events at local schools.
-* Performed physics deonstrations at the San Diego Festival of Science and Engineering.
+* Performed physics demonstrations at the San Diego Festival of Science and Engineering.
 
 **Naval Medical Center San Diego** | Radiation Safety Volunteer
 *June 2022 - December 2022*

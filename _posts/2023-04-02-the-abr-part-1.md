@@ -36,7 +36,9 @@ I have heard good things about anki flash cards, but I never got around to learn
 Here's a link to a digitized version of my ABR flashcards: [Quizlet for ABR Part 1](https://quizlet.com/_dbmqyb?x=1jqt&i=4j7a8d)
 
 ## Practice Exams
-There are many (paid) resources available online that provide practice exams. This was one of my overarching frustrations with the ABR exam in general- that it felt like it was pay to win. Some of these websites were asking for over a thousand dollars for a membership, which is pretty apalling for a broke grad student. I have heard the argument that these types of resources are an investment towards a well-paying career in medical physics, however, as someone who believes information should be freely available, I can't get on board with that. With that said, I went with the cheapest option, which was OncologyMedicalPhysics. I also had access to ABRphysicshelp through a classmate. Comparing the two websites, ABRphysicshelp was good, but some of the problems were much more complex than what appeared on the ABR exam. OMP offered a large test bank of questions that were less problem solving and more knowledge-based, which is what I felt the exam mainly consisted of when I took it.  
+There are many (paid) resources available online that provide practice exams. This was one of my overarching frustrations with the ABR exam in general- that it felt like it was pay to win. Some of these websites were asking for over a thousand dollars for a membership, which was pretty appalling for a broke grad student. I have heard the argument that these types of resources are an investment towards a well-paying career in medical physics, however, as someone who believes information should be freely available, I can't get on board with that. With that said, I went with the cheapest option, which was OncologyMedicalPhysics. I also had access to ABRphysicshelp through a classmate. Comparing the two websites, ABRphysicshelp was good, but some of the problems were much more complex than what appeared on the ABR exam. OMP offered a large test bank of questions that were less problem solving and more knowledge-based, which is what I felt the exam mainly consisted of when I took it.  
+  
+The [Raphex exams](https://medicalphysics.org/SimpleCMS.php?content=booklist.php&category=raphex) were a wonderful resource for brushing up on multiple-choice questions. I was lucky enough to find a stack of old Raphex exams in my lab room. Ask around and you might know someone who has digital copies! Keep in mind that these practice exams were written with radiology residents preparing for their Core exams in mind. I found the general physics portions that were at the beginning of both the diagnostic and therapeutic versions to be very useful in making sure I had my basics down to pat. I also completed several diagnostic exams in their entierty, but thought that a lot of the therapy questions were overkill for the ABR exam. 
 
 ## Books
 My master's program at San Diego State University used the following textbooks:
@@ -46,17 +48,17 @@ My master's program at San Diego State University used the following textbooks:
 * Attix, F.H. (1986) Introduction to Radiological Physics and Radiation Dosimetry. J. Wiley and Son, New York.
 * Khan, F.M. and Gibbons, J.P. (2014) The Physics of Radiation Therapy. 5th Edition, Lippincott Williams & Wilkins, Philadelphia
 
-When I began studying for the exam, I started with a cumulative review using the textbooks listed above. While I saw virtue in this technique as being more comprehensive and giving me the theroetical knowledge to problem-solve my way through anything that could be thrown at me, I now think spending more time actually solving problems is more valuable than just reading textbooks. 
+When I began studying for the exam, I started with a cumulative review using the textbooks listed above. While I saw virtue in this technique as being more comprehensive and giving me the theoretical knowledge to problem-solve my way through anything that could be thrown at me, I now think spending more time actually solving problems is more valuable than just reading textbooks. 
 
 The following are a couple of books that I used religiously for practice problems and concise information:
-* Khan, Faiz M. (2012) Khan’s Lectures: Handbook of the Physics of Radiation Therapy. Wolters Kluwer/Lippincott Williams & Wilkins Health, Philidelphia. 
+* Khan, Faiz M. (2012) Khan’s Lectures: Handbook of the Physics of Radiation Therapy. Wolters Kluwer/Lippincott Williams & Wilkins Health, Philadelphia. 
 * Huda, W., Abrahams, R. B. (2016). Review of Radiologic Physics. Wolters Kluwer. 
 
 ## Materials
 * 8.5" x 11" whiteboard
-  * I suggest doing all of your practice problems on the whiteboard so you can get a feel for your space limitations during the exam. This might be a little overboard, but I modded one of the magnets that came with my whiteboard to be an eraser by hot glueing some felt to the surface. 
+  * I suggest doing all of your practice problems on the whiteboard so you can get a feel for your space limitations during the exam. This might be a little overboard, but I modded one of the magnets that came with my whiteboard to be an eraser by hot gluing some felt to the surface. 
 * Ultra fine EXPO markers
   * You might run out of space after writing down 1/16th of an equation if you use the classic chisel-point markers. This is a personal choice, but I like to keep things compact. 
 * TI-30XS Multiview Calculator
-  * It's either this specific calcuator, or the online version that is built into the exam software. I knew I'd be quicker to the draw with the real deal. 
+  * It's either this specific calculator, or the online version that is built into the exam software. I knew I'd be quicker to the draw with the real deal. 
 * Side-view webcam. I mounted a webcam on a phone tripod that I already had lying around. 
