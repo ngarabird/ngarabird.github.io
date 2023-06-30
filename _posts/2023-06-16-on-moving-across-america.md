@@ -10,4 +10,4 @@ tags:
 
 Moving Across a Really Big Country
 ======
-This is going to be a blog post about my experience moving across the country. Right now, it's just a placeholder. 
+
