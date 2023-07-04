@@ -22,6 +22,9 @@ Master's Project: Diffusion Tensor Imaging Processing Pipeline for Muscle Fiber 
   
 Work Experience
 ======
+**Duke University Health System** | Diagnostic Medical Physics Resident
+*July 2023 - Present*  
+
 **San Diego State University** | Head Teaching Assistant  
 *August 2021 - May 2023*  
 * Physics 182B - Introductory physics lab for life-science majors
@@ -39,11 +42,6 @@ Work Experience
 
 **San Bernardino Valley College** | Tutor
 *August 2014 - May 2016*
-
-Skills
-======
-* Accordion
-* Making this website
 
 Service and Leadership
 ======
