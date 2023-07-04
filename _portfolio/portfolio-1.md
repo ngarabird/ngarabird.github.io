@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 Item 1
-{{excerpt}}
+{{ excerpt | safe }}
