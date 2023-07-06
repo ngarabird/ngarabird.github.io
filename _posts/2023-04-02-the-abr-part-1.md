@@ -8,8 +8,6 @@ tags:
   - medical physics
 ---
 
-This is where I'd write about the ABR Part 1 if I was actually going to sit down and do that. 
-
 The *dreaded* ABR Part 1 Exam
 ======
 Now that I've taken the exam, I have found that it's one of the last things I want to immortalize through repeated Q&A sessions with my fellow grad students. Still... wouldn't it be great if I could actually immortalize my thoughts on this exam once and for all?
@@ -36,7 +34,7 @@ I have heard good things about anki flash cards, but I never got around to learn
 Here's a link to a digitized version of my ABR flashcards: [Quizlet for ABR Part 1](https://quizlet.com/_dbmqyb?x=1jqt&i=4j7a8d)
 
 ## Practice Exams
-There are many (paid) resources available online that provide practice exams. This was one of my overarching frustrations with the ABR exam in general- that it felt like it was pay to win. Some of these websites were asking for over a thousand dollars for a membership, which was pretty appalling for a broke grad student. I have heard the argument that these types of resources are an investment towards a well-paying career in medical physics, however, as someone who believes information should be freely available, I can't get on board with that. With that said, I went with the cheapest option, which was OncologyMedicalPhysics. I also had access to ABRphysicshelp through a classmate. Comparing the two websites, ABRphysicshelp was good, but some of the problems were much more complex than what appeared on the ABR exam. OMP offered a large test bank of questions that were less problem solving and more knowledge-based, which is what I felt the exam mainly consisted of when I took it.  
+There are many (paid) resources available online that provide practice exams. This was one of my overarching frustrations with the ABR exam in general- that it felt like it was pay to win. Some of these websites were asking for over a thousand dollars for a membership, which was pretty appalling for a broke grad student. I have heard the argument that these types of resources are an investment towards a well-paying career in medical physics, however, as someone who believes information should be freely available, I can't get on board with that. With that said, I went with the cheapest option, which was OncologyMedicalPhysics. I also had access to ABRphysicshelp through a classmate. Comparing the two websites, ABRphysicshelp was good, but some of the problems were much more complex than what appeared on the ABR exam. OMP offered a large test bank of questions that were less problem solving and more knowledge-based.
   
 The [Raphex exams](https://medicalphysics.org/SimpleCMS.php?content=booklist.php&category=raphex) were a wonderful resource for brushing up on multiple-choice questions. I was lucky enough to find a stack of old Raphex exams in my lab room. Ask around and you might know someone who has digital copies! Keep in mind that these practice exams were written with radiology residents preparing for their Core exams in mind. I found the general physics portions that were at the beginning of both the diagnostic and therapeutic versions to be very useful in making sure I had my basics down to pat. I also completed several diagnostic exams in their entirety, but thought that a lot of the therapy questions were overkill for the ABR exam. 
 
