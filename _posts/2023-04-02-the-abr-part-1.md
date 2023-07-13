@@ -52,6 +52,14 @@ The following are a couple of books that I used religiously for practice problem
 * Khan, Faiz M. (2012) Khan’s Lectures: Handbook of the Physics of Radiation Therapy. Wolters Kluwer/Lippincott Williams & Wilkins Health, Philadelphia. 
 * Huda, W., Abrahams, R. B. (2016). Review of Radiologic Physics. Wolters Kluwer. 
 
+## The ABR Website
+Check out the [Content Guide](https://www.theabr.org/medical-physics/initial-certification/part-1-exam/content-guide) on the ABR website. Make sure you are able to answer all the questions at the bottom of that page. Further, seek out questions that are in a similar style to those on the content guide.  
+  
+Another useful resource on the ABR website is the list of constants and physical values, found [here](https://www.theabr.org/medical-physics/initial-certification/constants-physical-values). Have this list available whenever you are doing a practice exam. Study the list itself and make sure you can solve problems based off of the information given on this page. For example, the list contains a table of dose rate constants and TVLs of various nuclides. This would suggest that you are expected to know how to solve a shielding type problem or know how to work with TVL equations. 
+
+## Videos
+I referred to Kurt Van Delinder's [videos series](https://youtube.com/playlist?list=PLR5923ISbcx_eJKeN2-ZC568I5vdNDwYM) on YouTube to help me figure out how to do some problem types I was really stuck on. Each of his problem solving videos starts off with really basic questions and eventually progresses to more difficult questions. He does a lot of problems from Attix's book. I also recall him even solving some problems from the ABR Content Guide mentioned above. 
+
 ## Materials
 * 8.5" x 11" whiteboard
   * I suggest doing all of your practice problems on the whiteboard so you can get a feel for your space limitations during the exam. This might be a little overboard, but I modded one of the magnets that came with my whiteboard to be an eraser by hot gluing some felt to the surface. 
