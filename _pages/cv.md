@@ -22,7 +22,7 @@ Master's Project: Diffusion Tensor Imaging Processing Pipeline for Muscle Fiber 
   
 Work Experience
 ======
-**Duke University Health System** | Diagnostic Medical Physics Resident
+**Duke University Health System** | Diagnostic Medical Physics Resident  
 *July 2023 - Present*  
 
 **San Diego State University** | Head Teaching Assistant  
