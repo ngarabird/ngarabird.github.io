@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ------
 Hi, I'm Ngara. Welcome to my website!  
-I am currently working toward becoming a diagnostic medical physicist, so a lot of what I talk about on here will have to do with that. In my spare time, I like to draw, paint, cook, garden, learn Spanish, and most recently, weave. 
+I am currently working toward becoming a diagnostic medical physicist, so a lot of what I talk about on here will have to do with that. In my spare time, I like to knit, cook, play the banjo, and learn Spanish.
 
 What am I putting on this website?
 ------
