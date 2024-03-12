@@ -17,6 +17,7 @@ What am I putting on this website?
 ------
 
 This website is currently a massive work in progress. It is a static website hosted on GitHub, meaning it gets updated whenever I decide to type stuff into Visual Studio then push it to the great expanse of the Internet.  
+  
 Any views on this website are mine alone and do not reflect the views of my employer. 
 
 See the links at the top of the page to get around!
