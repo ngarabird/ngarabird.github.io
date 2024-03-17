@@ -68,3 +68,11 @@ I referred to Kurt Van Delinder's [videos series](https://youtube.com/playlist?l
 * TI-30XS Multiview Calculator
   * It's either this specific calculator, or the online version that is built into the exam software. I knew I'd be quicker to the draw with the real deal. 
 * Side-view webcam. I mounted a webcam on a phone tripod that I already had lying around. 
+
+<script src="https://utteranc.es/client.js"
+        repo="ngarabird/ngarabird.github.io"
+        issue-term="pathname"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
