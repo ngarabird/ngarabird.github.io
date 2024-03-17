@@ -42,5 +42,13 @@ I'm also happy to report that after getting settled in, I get along great with t
 
 That's all for now. Thanks for reading!
 
+<script src="https://utteranc.es/client.js"
+        repo="ngarabird/ngarabird.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 
 

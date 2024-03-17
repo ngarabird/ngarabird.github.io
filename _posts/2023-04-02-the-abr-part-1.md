@@ -72,7 +72,7 @@ I referred to Kurt Van Delinder's [videos series](https://youtube.com/playlist?l
 <script src="https://utteranc.es/client.js"
         repo="ngarabird/ngarabird.github.io"
         issue-term="pathname"
-        theme="preferred-color-scheme"
+        theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
