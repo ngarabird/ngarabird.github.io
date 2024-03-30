@@ -1,5 +1,5 @@
 ---
-title: 'The ABR Part 1'
+title: 'How to Study for the ABR Part 1 Medical Physics Exam'
 date: 2023-04-02
 permalink: /posts/2023/04/the-abr-part-1/
 tags:
