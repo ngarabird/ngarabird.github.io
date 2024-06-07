@@ -43,6 +43,12 @@ Work Experience
 **San Bernardino Valley College** | Tutor
 *August 2014 - May 2016*
 
+Grants and Awards
+======
+Expanding Horizons Travel Grant, *American Association of Physicists in Medicine*, 2023  
+Outstanding TA Award, *San Diego State University*, 2023  
+Crellin Pauling Student Teaching Award, *California State University*, 2023
+
 Service and Leadership
 ======
 **Women in Physics at San Diego State University** | President  
