@@ -43,6 +43,10 @@ Work Experience
 **San Bernardino Valley College** | Tutor
 *August 2014 - May 2016*
 
+Presentations
+======
+*N. Bird*, J. Wilson, AAPM Annual Meeting, July 2024, Automated Segmentation and Noise Evaluation in Clinical Planar Whole Body Tc-99m Bone Scans [Oral Presentation]
+
 Grants and Awards
 ======
 * Expanding Horizons Travel Grant, *American Association of Physicists in Medicine*, 2023  
