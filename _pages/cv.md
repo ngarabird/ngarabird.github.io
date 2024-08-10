@@ -45,7 +45,7 @@ Work Experience
 
 Presentations
 ======
-*N. Bird*, J. Wilson, AAPM Annual Meeting, July 2024, Automated Segmentation and Noise Evaluation in Clinical Planar Whole Body Tc-99m Bone Scans [Oral Presentation]
+**N. Bird**, J. Wilson, AAPM Annual Meeting, July 2024, Automated Segmentation and Noise Evaluation in Clinical Planar Whole Body Tc-99m Bone Scans [Oral Presentation]
 
 Grants and Awards
 ======
@@ -53,8 +53,11 @@ Grants and Awards
 * Outstanding TA Award, *San Diego State University*, 2023  
 * Crellin Pauling Student Teaching Award, *California State University*, 2023
 
-Service and Leadership
+Professional Service
 ======
+**American Association of Physicists in Medicine** | Associate Member
+* Guest on Online Learning Services Subcommittee   
+
 **Women in Physics at San Diego State University** | President  
 *May 2022 - May 2023*
 * Provide leadership and direction to organization by planning professional development, social,
