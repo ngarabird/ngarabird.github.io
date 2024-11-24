@@ -10,7 +10,7 @@ tags:
   - oral exam
   - mental health
 ---
-
+## My Oral Exam Experience  
 Oral exams have been one of the most stressful things about residency for me. I have been doing pretty well in my oral exams (n=6 at this point), with feedback that I know the material but need to deliver it with more confidence. I had been practicing giving more confident deliveries for the past few months, so I walked into my most recent oral exam feeling pretty good. That is until I reached the last question, which was calculation-based. I hit a wall and couldn't figure out how to proceed with the problem. I could tell the examiners were trying to lead me in the right direction, but in the moment my brain was frozen and I just couldn't figure it out. I could feel my face getting flushed and my eyes started watering, but I resolved to finish the problem. Finally one of the examiners said something that made sense to me and I was able to proceed. I sat outside the room while they deliberated on my performance, surprisingly keeping it together but feeling certain that I had failed. When they called me back into the room to tell me the results, I found out that I passed! This was a huge relief for me, but the process was certainly a strain on my mental health.
 
 Oral exams are pretty much a fact of life for medical physics residencies, given that residency programs want to prepare trainees for a career of explaining things to other healthcare professionals (and also ABR Part 3). The format is certainly intimidating if you don't know what to expect, so I wanted to share some tips that I have found helpful for studying for oral exams during residency. If you stress out about oral exams like me, hopefully this blog post can help you feel more prepared.
