@@ -48,3 +48,11 @@ Practicing verbal communication is essential, especially if you tend to freeze w
 Ideally, find a study partner who can simulate the exam environment with you. However, if this isn't possible, large language models are a great alternative. Prompt the LLM that you're a medical physics resident preparing for an oral exam in X topic and that you'd like to study Y subtopic. I like using ChatGPT for this because the voice chat feature allows you to seek real-time feedback. This can be pretty humbling if you prompt the AI to give more rigorous feedback. 
 
 That's all for now! Good luck on your oral exams. Take care of yourself. Reach out if you have any questions. 
+
+<script src="https://utteranc.es/client.js"
+        repo="ngarabird/ngarabird.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

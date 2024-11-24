@@ -30,4 +30,10 @@ I'll say that my most average day is that I come into the office, read emails, m
 ### How often do you have to do off-site testing?
 Not terribly often, like once a month or less. Some of our off-site locations are about an hour away from the main hospital while some of the other "off-site" locations are actually just down the street from the hospital. The rest of them are clinics/urgent cares/ambulatory surgical centers  etc. within 30 minutes of my office. 
 
-
+<script src="https://utteranc.es/client.js"
+        repo="ngarabird/ngarabird.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
